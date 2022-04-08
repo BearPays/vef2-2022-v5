@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## linkur að síðu:
+# https://6250c1f442a21d2729a10907--ornate-twilight-bfc0bc.netlify.app
 
 ## Getting Started
 

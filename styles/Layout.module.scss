@@ -114,3 +114,16 @@
     flex-direction: column;
   }
 }
+
+.layout {
+  font-family: var(--fonts);
+  font-size: 16px;
+  margin: 0 auto;
+  max-width: 900px;
+  padding: 1rem;
+
+  &__section {
+    margin-bottom: 1rem;
+    margin-top: 1.5rem;
+  }
+}
